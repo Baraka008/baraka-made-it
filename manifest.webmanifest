@@ -1,10 +1,11 @@
 {
-  "name": "LIUWA GARDENS",
-  "short_name": "Liuwa",
+  "name": "Victor Baraka Portfolio",
+  "short_name": "Baraka",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "tan",
-  "theme_color": "darkslategray",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
   "icons": [
     {
       "src": "Adobe Express - file.png",
